@@ -1,0 +1,1 @@
+[stylesheet.css|/bootstrap/css/bootstrap.|journal3/lib/swiper/swiper.|style.minimal.|magnific/magnific-popup.|datetimepicker/bootstrap-datetimepicker.|imagezoom]
