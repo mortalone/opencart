@@ -1,8 +1,5 @@
-[stock]bootstrap
 /js/swiper.jquery.js
-[stock]datetime
 moment
-[stock]magnific
 stylesheet.css
 jquery.imagezoom.
 journal3/js/common.js
