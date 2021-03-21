@@ -1,4 +1,5 @@
-[stock]theme/default/stylesheet/stylesheet.css
-[stock]bootstrap/css/bootstrap.
-[stock]javascript/jquery/swiper/css
-[stock]view/javascript/jquery/magnific
+theme/default/stylesheet/stylesheet.css
+bootstrap/css/bootstrap.
+javascript/jquery/swiper/css
+view/javascript/jquery/magnific
+view/javascript/jquery/datetimepicker
