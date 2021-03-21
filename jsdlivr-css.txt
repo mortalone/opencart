@@ -1,6 +1,7 @@
 [stock]stylesheet.css
 [stock]/bootstrap/css/bootstrap.
 journal3/lib/swiper/swiper.
+[stock]/javascript/jquery/swiper/
 style.minimal.
 [stock]magnific/magnific-popup.
 datetimepicker/bootstrap-datetimepicker.
