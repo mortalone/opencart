@@ -1,4 +1,4 @@
 [stock]theme/default/stylesheet/stylesheet.css
-[stock]/bootstrap/css/bootstrap.
-[stock]/javascript/jquery/swiper/
-[stock]magnific/magnific-popup.
+[stock]bootstrap/css/bootstrap.
+[stock]javascript/jquery/swiper/css
+[stock]javascript/jquery/magnific/
