@@ -1,7 +1,7 @@
-stylesheet.css
-/bootstrap/css/bootstrap.
+[stock]stylesheet.css
+[stock]/bootstrap/css/bootstrap.
 journal3/lib/swiper/swiper.
 style.minimal.
-magnific/magnific-popup.
+[stock]magnific/magnific-popup.
 datetimepicker/bootstrap-datetimepicker.
 imagezoom
