@@ -1,4 +1,4 @@
-[stock]stylesheet.css
+[stock]/stylesheet.css
 [stock]/bootstrap/css/bootstrap.
 journal3/lib/swiper/swiper.
 [stock]/javascript/jquery/swiper/
