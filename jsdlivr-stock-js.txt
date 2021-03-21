@@ -1,3 +1,6 @@
 javascript/bootstrap/js
-datetime
-magnific
+view/javascript/jquery/datetimepicker
+view/javascript/jquery/magnific
+view/javascript/common.js
+view/javascript/qrcode.js
+view/javascript/jquery/swiper/js
