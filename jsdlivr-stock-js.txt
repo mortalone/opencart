@@ -1,4 +1,4 @@
-javascript/bootstrap/js
+view/javascript/bootstrap/js
 view/javascript/jquery/datetimepicker
 view/javascript/jquery/magnific
 view/javascript/common.js
