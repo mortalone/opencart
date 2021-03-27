@@ -2,3 +2,4 @@ journal3/lib/swiper/swiper.
 style.minimal.
 datetimepicker/bootstrap-datetimepicker.
 imagezoom
+view/javascript/catordqtydisc.css
