@@ -1,0 +1,5 @@
+.catordqtydiscrib{text-align:left;display:inline-block;font-size: auto;margin-right:9px; color: blue;}
+table.catordqtydisc_table { border-collapse: collapse; width: 100%; border:1px solid #ccc;}
+.catordqtydisc_table th, .catordqtydisc_table td { text-align: left; padding: 8px;text-align:center;border:1px solid #ccc}
+.catordqtydisc_table tr:nth-child(even){background-color: #f2f2f2}
+.catordqtydisc_table th { background-color: #1f90bb; color: white;}
