@@ -12,3 +12,4 @@ vanilla-lazyload/lazyload.min.js
 nizr/modernizr-custom.js
 journal3/lib/anime/anime.min.js
 journal3/lib/hoverintent/jquery.hoverIntent.min.js
+view/javascript/live_search
