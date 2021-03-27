@@ -3,4 +3,4 @@ style.minimal.
 datetimepicker/bootstrap-datetimepicker.
 imagezoom
 view/javascript/catordqtydisc.css
-view/javascript/live_search/
+view/javascript/live_search/live_search.
